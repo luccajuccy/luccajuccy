@@ -101,30 +101,18 @@ Python developer focused on building **intelligent**, **automated**, and **scala
     </p>
   </div>
 
-  <!-- NOVAKAR -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #AAAAAA; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <!-- JOBS-POR-AI -->
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #666666; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/luccajuccy/NovaKar" style="color: #CCCCCC; text-decoration: none;">✨ NOVAKAR</a>
+      <a href="https://github.com/luccajuccy/JOBS-POR-AI" style="color: #999999; text-decoration: none;">✨ JOBS-POR-AI</a>
     </h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0;">ERP local para concessionárias – controle de estoque, valores, histórico completo dos veículos, documentações e gestão de vendas.</p>
+    <p style="color: #8b949e; margin: 0 0 12px 0;">Plataforma inteligente de busca e match de vagas de emprego – coleta automatizada, processamento com IA e recomendações personalizadas.</p>
     <p style="margin: 0;">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Asyncio-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- AI-JAIL-ORCHESTRA -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #777777; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
-    <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/luccajuccy/AI-JAIL-Orchestra" style="color: #BBBBBB; text-decoration: none;">✨ AI-JAIL-ORCHESTRA</a>
-    </h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0;">Orquestrador de múltiplos agentes de IA em ambiente isolado – TDD, testes automatizados, pentests e desenvolvimento assistido.</p>
-    <p style="margin: 0;">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Scrapy-5C4EE5?style=flat-square&logo=scrapy&logoColor=white" />
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
     </p>
   </div>
 
@@ -141,18 +129,45 @@ Python developer focused on building **intelligent**, **automated**, and **scala
     </p>
   </div>
 
-  <!-- JOBS-POR-AI (NOVO) -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #666666; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <!-- AI-JAIL-ORCHESTRA -->
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #777777; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/luccajuccy/JOBS-POR-AI" style="color: #999999; text-decoration: none;">✨ JOBS-POR-AI</a>
+      <a href="https://github.com/luccajuccy/AI-JAIL-Orchestra" style="color: #BBBBBB; text-decoration: none;">✨ AI-JAIL-ORCHESTRA</a>
     </h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0;">Plataforma inteligente de busca e match de vagas de emprego – coleta automatizada, processamento com IA e recomendações personalizadas.</p>
+    <p style="color: #8b949e; margin: 0 0 12px 0;">Orquestrador de múltiplos agentes de IA em ambiente isolado – TDD, testes automatizados, pentests e desenvolvimento assistido.</p>
     <p style="margin: 0;">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Scrapy-5C4EE5?style=flat-square&logo=scrapy&logoColor=white" />
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- NOVAKAR -->
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #AAAAAA; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0;">
+      <a href="https://github.com/luccajuccy/NovaKar" style="color: #CCCCCC; text-decoration: none;">✨ NOVAKAR</a>
+    </h3>
+    <p style="color: #8b949e; margin: 0 0 12px 0;">ERP local para concessionárias – controle de estoque, valores, histórico completo dos veículos, documentações e gestão de vendas.</p>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Asyncio-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- STUDYO -->
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #6e6e6e; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0;">
+      <a href="https://github.com/luccajuccy/StudyO" style="color: #DDDDDD; text-decoration: none;">✨ STUDYO</a>
+    </h3>
+    <p style="color: #8b949e; margin: 0 0 12px 0;">Plataforma pessoal de estudos para hiperfoco – dashboard focado, biblioteca Markdown, grafo de conhecimento, quiz adaptativo, áudio e IA local com Ollama.</p>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     </p>
   </div>
 
