@@ -194,16 +194,21 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 ---
 
 ### 🧠 Intelligence Cycle
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_Planning_&_Direction-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=C084FC" />
+  ➡️
+  <img src="https://img.shields.io/badge/🔍_Collection_(SMART_DATA)-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=F472B6" />
+  ➡️
+  <img src="https://img.shields.io/badge/⚙️_Processing-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=A78BFA" />
+  ➡️
+  <img src="https://img.shields.io/badge/🧠_Analysis_(AI_ML)-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=58A6FF" />
+  ➡️
+  <img src="https://img.shields.io/badge/📤_Dissemination-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=C084FC" />
+</div>
 
-```mermaid
-%%{init: {'theme': 'neutral', 'themeVariables': { 'fontFamily': 'Segoe UI'}}}%%
-graph LR
-    P(🎯 Planning<br/>& Direction) --> C(🔍 Collection<br/>SMART DATA)
-    C --> PE(⚙️ Processing<br/>)
-    PE --> A(🧠 Analysis<br/>AI-Jail / ML)
-    A --> D(📤 Dissemination<br/>Dashboards / Reports)
-    D -.-> P
-```
+<div align="center">
+  🔄 <strong>Feedback Loop</strong> ➡️ <img src="https://img.shields.io/badge/🔁_Iteração_contínua-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=8B5CF6" />
+</div>
 
 ### 💡 Let's Connect!
 
