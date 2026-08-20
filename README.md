@@ -179,34 +179,7 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 
 ---
 
-### 📜 Experience & Education Highlights
 
-- **BMS Operations Technician & Python Developer** (Abr 2023 – 2026)  
-  Desenvolvi plataforma interna de analytics, automatizei relatórios (redução de 32% no tempo), implementei detecção de falhas com ML (diagnósticos 3x mais rápidos) e integrei sistemas IoT/BMS.
-
-- **Academic Study**  
-  - Artificial Intelligence – Gran Faculdade (2026‑2028)  
-  - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
-  - Artificial Intelligence, Deep Learning, Python, SQL, HTML/CSS/JS – diversos cursos (mais de 400 horas somadas)
-
----
-
-### 🧠 Intelligence Cycle
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯_Planning_&_Direction-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=C084FC" />
-  ➡️
-  <img src="https://img.shields.io/badge/🔍_Collection_(SMART_DATA)-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=F472B6" />
-  ➡️
-  <img src="https://img.shields.io/badge/⚙️_Processing-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=A78BFA" />
-  ➡️
-  <img src="https://img.shields.io/badge/🧠_Analysis_(AI_ML)-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=58A6FF" />
-  ➡️
-  <img src="https://img.shields.io/badge/📤_Dissemination-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=C084FC" />
-</div>
-
-<div align="center">
-  🔄 <strong>Feedback Loop</strong> ➡️ <img src="https://img.shields.io/badge/🔁_Iteração_contínua-3B2E5A?style=for-the-badge&labelColor=0B0A1A&color=8B5CF6" />
-</div>
 
 ### 💡 Let's Connect!
 
