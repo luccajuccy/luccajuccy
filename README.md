@@ -70,9 +70,7 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 
 ---
 ## Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccajuccy&hide_border=true&background=0B0A1A&stroke=3B2E5A&ring=C084FC&fire=F472B6&currStreakNum=E879F9&currStreakLabel=C084FC&sideNums=E879F9&sideLabels=C084FC&dates=8B5CF6" alt="Streak Stats" />
-</div>
+
 
 
 ### 🐍 Contribution Snake
